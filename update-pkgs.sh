@@ -26,7 +26,7 @@ if [ ! -f ~/.config/clean-chroot-manager.conf ]; then
 fi
 
 # Define package names to exclude from building
-exclusions=("lsb-release-Tao" "bsp-layout" "python-isTao")
+exclusions=("lsb-release-tao" "bsp-layout" "python-istao")
 # Initialize an array to store package names
 packages=()
 
